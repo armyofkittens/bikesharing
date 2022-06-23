@@ -38,12 +38,20 @@ Thursday is the busiest day for ride volume
 ### Trips by Gender (Weekday Per Hour)
 Men make up most of the volume however men and women both ride the most on Thursdays
 <p align="left">
-  <img src="https://github.com/armyofkittens/bikesharing/blob/main/Resources/Trips%20by%20Gender%20(Weekday%20Per%20Hour).png" width="700"/>
+  <img src="https://github.com/armyofkittens/bikesharing/blob/main/Resources/Trips%20by%20Gender%20(Weekday%20Per%20Hour).png" width="1000"/>
 </p>
 
 ### Trips by Gender (By Weekday)
 Male subscribers make up most of the volume weekly
 <p align="left">
-  <img src="https://github.com/armyofkittens/bikesharing/blob/main/Resources/Trips%20by%20Gender%20(by%20Weekday).png" width="700"/>
+  <img src="https://github.com/armyofkittens/bikesharing/blob/main/Resources/Trips%20by%20Gender%20(by%20Weekday).png" width="1000"/>
 </p>
+
+## Summary
+Multiple conclusions have been made based on this data. Firstly, subscribers make up most of the regular customers versus one-time users. Additionally, Thursdays tend to be the busiest day, and men predominately make up citibike customers. Peak hours are between 5-7pm, and the best time to repair the bicycles are between 2-5am. Marketing money should be put into promotions attracting more female riders, as well as days where ride volume is lower. 
+
+### Suggested Additional Visualizations
+1.) Include a breakdown of stations by Gender
+
+2.) Peak hours by birth year. 
 
