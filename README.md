@@ -5,4 +5,7 @@ After visiting NYC and using their awesome bikesharing service, we had the idea 
 ## Results
 The results of the analysis have been linked to a [Tableau Public Story](https://public.tableau.com/app/profile/ryan.knauff/viz/Bikesharing_Challenge_16559395862050/Story1?publish=yes)
 
-### Visualization 1
+### Customer/Subscriber
+<p align="left">
+  <img src="https://github.com/armyofkittens/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png" width="700"/>
+</p>
