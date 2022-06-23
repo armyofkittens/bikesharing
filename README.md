@@ -6,6 +6,44 @@ After visiting NYC and using their awesome bikesharing service, we had the idea 
 The results of the analysis have been linked to a [Tableau Public Story](https://public.tableau.com/app/profile/ryan.knauff/viz/Bikesharing_Challenge_16559395862050/Story1?publish=yes)
 
 ### Customer/Subscriber
+Of the almost 2.4 million customers, subscribers predominantly take rides at 1.9 million.
 <p align="left">
-  <img src="https://github.com/armyofkittens/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png" width="700"/>
+  <img src="https://github.com/armyofkittens/bikesharing/blob/main/Resources/Customer%20-%20Subscriber.png" width="700"/>
 </p>
+
+### Peak Hours
+Peak hours are from 5-7pm and quiet hours are 2-5am.
+<p align="left">
+  <img src="https://github.com/armyofkittens/bikesharing/blob/main/Resources/Peak%20Hours.png" width="700"/>
+</p>
+
+### Trip Duration
+Most trips last only 5 minutes.
+<p align="left">
+  <img src="https://github.com/armyofkittens/bikesharing/blob/main/Resources/Checkout%20Times%20for%20Users.png" width="700"/>
+</p>
+
+### Trip Duration by Gender
+Men average 5, women 6, and unknown 11 minutes at peak.
+<p align="left">
+  <img src="https://github.com/armyofkittens/bikesharing/blob/main/Resources/Checkout%20Time%20by%20Gender.png" width="700"/>
+</p>
+
+### Trips by Weekday Per Hour
+Thursday is the busiest day for ride volume
+<p align="left">
+  <img src="https://github.com/armyofkittens/bikesharing/blob/main/Resources/Trips%20by%20Weekday%20Each%20Hour.png" width="700"/>
+</p>
+
+### Trips by Gender (Weekday Per Hour)
+Men make up most of the volume however men and women both ride the most on Thursdays
+<p align="left">
+  <img src="https://github.com/armyofkittens/bikesharing/blob/main/Resources/Trips%20by%20Gender%20(Weekday%20Per%20Hour).png" width="700"/>
+</p>
+
+### Trips by Gender (By Weekday)
+Male subscribers make up most of the volume weekly
+<p align="left">
+  <img src="https://github.com/armyofkittens/bikesharing/blob/main/Resources/Trips%20by%20Gender%20(by%20Weekday).png" width="700"/>
+</p>
+
